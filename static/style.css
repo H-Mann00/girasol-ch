@@ -1656,6 +1656,7 @@ footer {
   line-height: 1.8;
   color: var(--muted);
   letter-spacing: 0.01em;
+  text-align: justify;
 }
 
 @media (max-width: 1024px) {
