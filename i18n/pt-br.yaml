@@ -1,12 +1,14 @@
 # Navigation
 nav_home: Início
 nav_gallery: Galeria
+nav_band: Band
 nav_setlist: Setlist
 nav_upcoming_events: Eventos
 nav_booking: Reserva
 
 # Homepage
-hero_subtitle: Bossa Nova, Jazz & Pop Music Group
+welcome: Bem-vindo à
+hero_subtitle: Bossa Nova, Samba & Pop Music Group
 about_text: Gira Sol – com Tobias, Helena e Elias – traz música de bossa nova, jazz e pop calorosa para toda ocasião. Criamos uma atmosfera aconchegante perfeita para relaxar e dançar. Com músicas cuidadosamente selecionadas e toque sensível, oferecemos o acompanhamento musical perfeito para casamentos, celebrações, eventos privados e mais. Nosso objetivo é criar momentos inesquecíveis.
 booking_button: Ir para Reserva
 
@@ -45,4 +47,4 @@ booking_form_error: Desculpe, houve um erro ao enviar o formulário. Por favor, 
 booking_phone_text: "Ou se preferir ligar, entre em contato conosco diretamente neste número:"
 
 # Footer
-footer_domain: girasolmusic.ch
+footer_domain: girasol-music.ch

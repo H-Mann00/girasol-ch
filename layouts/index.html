@@ -1,15 +1,17 @@
 {{ define "main" }}
 <!-- Hero -->
 <section class="hero">
-  <h1 class="title"><em class="title-dark">Gira</em><br><em>Sol</em></h1>
+  <div class="hero-content">
+    <p class="eyebrow">{{ i18n "welcome" }}</p>
+    <h1 class="title"><em class="title-dark">Gira</em><em>Sol</em></h1>
+    <p class="subtitle">{{ i18n "hero_subtitle" }}</p>
+    <p class="about-text">{{ i18n "about_text" }}</p>
+    <a href="{{ relLangURL "/booking/" }}" class="cta-button">{{ i18n "booking_button" }}</a>
+  </div>
 
-  <img class="hero-image" src="/img/trio.jpg" alt="Gira Sol">
-
-  <p class="subtitle">{{ i18n "hero_subtitle" }}</p>
-
-  <p class="about-text">{{ i18n "about_text" }}</p>
-
-  <a href="{{ relLangURL "/booking/" }}" class="cta-button">{{ i18n "booking_button" }}</a>
+  <div class="hero-image-wrapper">
+    <img class="hero-image" src="/img/trio.jpg" alt="Gira Sol Trio">
+  </div>
 </section>
 
 <!-- Contact Cards -->
