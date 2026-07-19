@@ -22,15 +22,6 @@ card_contact_title: Book Us Now
 card_contact_email: "girasolmusic.band@gmail.com"
 card_contact_link: "Email →"
 
-# Occasions
-occasions_label: We perform for
-occasion_birthday: Birthday
-occasion_wedding: Wedding
-occasion_corporate: Corporate Event
-occasion_vernissage: Vernissage
-occasion_party: Party
-occasion_apero: Aperitif
-
 # Booking Form
 booking_form_title: Non-Binding Booking Request
 booking_form_name: Name

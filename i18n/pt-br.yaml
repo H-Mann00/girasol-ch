@@ -22,15 +22,6 @@ card_contact_title: Reserve Agora
 card_contact_email: "girasolmusic.band@gmail.com"
 card_contact_link: "Email →"
 
-# Occasions
-occasions_label: Tocamos para
-occasion_birthday: Aniversário
-occasion_wedding: Casamento
-occasion_corporate: Evento Corporativo
-occasion_vernissage: Vernissagem
-occasion_party: Festa
-occasion_apero: Aperitivo
-
 # Booking Form
 booking_form_title: Solicitação de Reserva Sem Compromisso
 booking_form_name: Nome
