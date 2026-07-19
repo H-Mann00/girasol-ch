@@ -9,17 +9,20 @@ Volte aqui para nossas próximas apresentações públicas e eventos.
 ### Agosto 2026
 
 <div class="upcoming-events">
-  <div class="upcoming-event">22.08.2026 Mänis Saloon, Derendingen SO</div>
-  <div class="upcoming-event">29.08.2026 Private Event in The Hague, Netherlands</div>
+  <div class="upcoming-event">Mänis Saloon, Derendingen SO</div>
+  <div class="upcoming-event">Private Event in The Hague, Netherlands</div>
 </div>
 
 ## Eventos Passados
 
-### Maio 2026
+### Outubro 2025
 
 <div class="past-events">
-  <div class="past-event">09.05.2026 Couch Session by GWEN <a href="/gallery/">→ Ver Fotos</a></div>
-  <div class="past-event">23.05.2026 Mänis Saloon <a href="/gallery/">→ Ver Fotos</a></div>
-  <div class="past-event">23.05.2026 Openhouse Emmenhof <a href="/gallery/">→ Ver Fotos</a></div>
-  <div class="past-event">30.05.2026 Evento Privado</div>
+  <div class="past-event">08.10.2025 Couch Session by GWEN <a href="/gallery/">→ Ver Fotos</a></div>
+</div>
+
+### Abril 2025
+
+<div class="past-events">
+  <div class="past-event">05.04.2025 Evento Privado</div>
 </div>
