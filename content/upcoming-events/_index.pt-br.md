@@ -2,8 +2,6 @@
 title: Eventos
 ---
 
-Volte aqui para nossas próximas apresentações públicas e eventos.
-
 ## Próximos Eventos
 
 Fique atento aos próximos eventos. Nos siga no Instagram ou entre em contato para saber mais.

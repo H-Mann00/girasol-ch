@@ -2,8 +2,6 @@
 title: Veranstaltungen
 ---
 
-Schau hier vorbei für unsere kommenden öffentlichen Auftritte und Events.
-
 ## Kommende Veranstaltungen
 
 Bleiben Sie auf dem Laufenden über zukünftige Veranstaltungen. Folgen Sie uns auf Instagram oder melden Sie sich bei uns, um mehr zu erfahren.

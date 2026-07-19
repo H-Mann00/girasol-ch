@@ -2,8 +2,6 @@
 title: Events
 ---
 
-Check back here for our upcoming public performances and events.
-
 ## Upcoming Events
 
 Stay tuned for future events. Follow us on Instagram or get in touch to learn more.
