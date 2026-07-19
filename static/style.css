@@ -1623,7 +1623,7 @@ footer {
   border-radius: 12px;
   box-shadow: 0 12px 40px rgba(217, 119, 67, 0.15);
   display: block;
-  filter: sepia(15%) hue-rotate(-5deg) saturate(1.1);
+  filter: sepia(30%) hue-rotate(-12deg) saturate(1.2);
 }
 
 .band-member-text h2 {
