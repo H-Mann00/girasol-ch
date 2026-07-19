@@ -462,6 +462,18 @@ nav a.active {
   animation: fadeUp 0.9s 0.5s cubic-bezier(0.22,1,0.36,1) forwards;
 }
 
+.about-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+  font-weight: 500;
+}
+
+.about-link:hover {
+  border-color: var(--accent);
+}
+
 /* ── CTA Button ── */
 .cta-button {
   display: inline-block;

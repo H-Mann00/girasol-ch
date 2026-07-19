@@ -8,7 +8,7 @@ nav_booking: Reserva
 # Homepage
 welcome: Bem-vindo à
 hero_subtitle: Bossa Nova, Samba & Pop Music Group
-about_text: "Somos Tobias, Helena e Elias. Juntos, Gira Sol (significado: virado para o sol). Tocamos Bossa Nova, Samba e Pop, criando uma atmosfera aconchegante em toda ocasião.<br><br><a href=\"/pt-br/band/\">Saiba mais sobre nós como banda →</a>"
+about_text: "Somos Tobias, Helena e Elias. Juntos, Gira Sol (significado: virado para o sol). Tocamos Bossa Nova, Samba e Pop, criando uma atmosfera aconchegante em toda ocasião.<br><br><a href=\"/pt-br/band/\" class=\"about-link\">Saiba mais sobre nós como banda →</a>"
 booking_button: Ir para Reserva
 
 # Cards
