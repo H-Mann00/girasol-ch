@@ -6,6 +6,7 @@
     <h1 class="title"><em class="title-dark">Gira</em><em>Sol</em></h1>
     <p class="subtitle">{{ i18n "hero_subtitle" }}</p>
     <p class="about-text">{{ i18n "about_text" }}</p>
+    <p class="about-text">{{ if eq .Site.Language.Lang "de" }}Erfahre mehr über uns als Band{{ else if eq .Site.Language.Lang "en" }}Learn more about us as a band{{ else }}Saiba mais sobre nós como banda{{ end }} <a href="{{ relLangURL "/band/" }}" class="about-link">{{ if eq .Site.Language.Lang "de" }}hier{{ else if eq .Site.Language.Lang "en" }}here{{ else }}aqui{{ end }}</a></p>
     <a href="{{ relLangURL "/booking/" }}" class="cta-button">{{ i18n "booking_button" }}</a>
   </div>
 
@@ -28,22 +29,9 @@
     <div class="card-title">{{ i18n "card_contact_title" }}</div>
     <div class="card-value">
       {{ i18n "card_contact_email" }}<br>
-      T: +41 76 322 73 28
+      T: +41 79 913 55 94
     </div>
     <a class="card-link" href="mailto:girasolmusic.band@gmail.com" target="_blank">{{ i18n "card_contact_link" }}</a>
   </div>
 </div>
-
-<!-- Occasions -->
-<section class="occasions">
-  <p class="occasions-label">{{ i18n "occasions_label" }}</p>
-  <div class="occasions-grid">
-    <span class="occasion-pill">{{ i18n "occasion_birthday" }}</span>
-    <span class="occasion-pill">{{ i18n "occasion_wedding" }}</span>
-    <span class="occasion-pill">{{ i18n "occasion_corporate" }}</span>
-    <span class="occasion-pill">{{ i18n "occasion_vernissage" }}</span>
-    <span class="occasion-pill">{{ i18n "occasion_party" }}</span>
-    <span class="occasion-pill">{{ i18n "occasion_apero" }}</span>
-  </div>
-</section>
 {{ end }}

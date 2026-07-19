@@ -404,7 +404,7 @@ nav a.active {
 .title em {
   font-style: italic;
   color: var(--accent);
-  display: block;
+  display: inline;
 }
 
 .title em.title-dark {
@@ -460,6 +460,18 @@ nav a.active {
   margin-bottom: 40px;
   opacity: 0;
   animation: fadeUp 0.9s 0.5s cubic-bezier(0.22,1,0.36,1) forwards;
+}
+
+.about-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+  font-weight: 500;
+}
+
+.about-link:hover {
+  border-color: var(--accent);
 }
 
 /* ── CTA Button ── */
@@ -648,6 +660,7 @@ nav a.active {
   opacity: 0;
   animation: fadeUp 0.8s 0.4s cubic-bezier(0.22,1,0.36,1) forwards;
   padding: 0 12px;
+  text-align: center;
 }
 
 .page-body p {
@@ -876,6 +889,7 @@ footer {
 .upcoming-events {
   margin-top: 24px;
   margin-bottom: 40px;
+  text-align: center;
 }
 
 .upcoming-event {
@@ -901,6 +915,7 @@ footer {
 .past-events {
   margin-top: 24px;
   margin-bottom: 40px;
+  text-align: center;
 }
 
 .past-event {
@@ -1623,6 +1638,7 @@ footer {
   border-radius: 12px;
   box-shadow: 0 12px 40px rgba(217, 119, 67, 0.15);
   display: block;
+  filter: sepia(30%) hue-rotate(-12deg) saturate(1.2);
 }
 
 .band-member-text h2 {
@@ -1640,6 +1656,7 @@ footer {
   line-height: 1.8;
   color: var(--muted);
   letter-spacing: 0.01em;
+  text-align: justify;
 }
 
 @media (max-width: 1024px) {

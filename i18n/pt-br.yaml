@@ -2,14 +2,13 @@
 nav_home: Início
 nav_gallery: Galeria
 nav_band: Band
-nav_setlist: Setlist
 nav_upcoming_events: Eventos
 nav_booking: Reserva
 
 # Homepage
 welcome: Bem-vindo à
 hero_subtitle: Bossa Nova, Samba & Pop Music Group
-about_text: Gira Sol – com Tobias, Helena e Elias – traz música de bossa nova, jazz e pop calorosa para toda ocasião. Criamos uma atmosfera aconchegante perfeita para relaxar e dançar. Com músicas cuidadosamente selecionadas e toque sensível, oferecemos o acompanhamento musical perfeito para casamentos, celebrações, eventos privados e mais. Nosso objetivo é criar momentos inesquecíveis.
+about_text: "Somos Tobias, Helena e Elias. Juntos, Gira Sol (significado: virado para o sol). Tocamos Bossa Nova, Samba e Pop, criando uma atmosfera aconchegante em toda ocasião."
 booking_button: Ir para Reserva
 
 # Cards
@@ -22,15 +21,6 @@ card_contact_label: Contato
 card_contact_title: Reserve Agora
 card_contact_email: "girasolmusic.band@gmail.com"
 card_contact_link: "Email →"
-
-# Occasions
-occasions_label: Tocamos para
-occasion_birthday: Aniversário
-occasion_wedding: Casamento
-occasion_corporate: Evento Corporativo
-occasion_vernissage: Vernissagem
-occasion_party: Festa
-occasion_apero: Aperitivo
 
 # Booking Form
 booking_form_title: Solicitação de Reserva Sem Compromisso
