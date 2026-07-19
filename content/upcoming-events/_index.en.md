@@ -6,12 +6,7 @@ Check back here for our upcoming public performances and events.
 
 ## Upcoming Events
 
-### August 2026
-
-<div class="upcoming-events">
-  <div class="upcoming-event">Mänis Saloon, Derendingen SO</div>
-  <div class="upcoming-event">Private Event in The Hague, Netherlands</div>
-</div>
+Stay tuned for future events. Follow us on Instagram or get in touch to learn more.
 
 ## Past Events
 
