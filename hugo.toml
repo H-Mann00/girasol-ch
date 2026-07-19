@@ -7,7 +7,6 @@ enableRobotsTXT = true
 [outputs]
   home = ['HTML', 'RSS']
   section = ['HTML', 'RSS']
-  band = ['HTML', 'RSS']
 
 [params]
   author = "Gira Sol Music"
