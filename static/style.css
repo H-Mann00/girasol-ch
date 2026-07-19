@@ -648,6 +648,7 @@ nav a.active {
   opacity: 0;
   animation: fadeUp 0.8s 0.4s cubic-bezier(0.22,1,0.36,1) forwards;
   padding: 0 12px;
+  text-align: center;
 }
 
 .page-body p {
@@ -876,6 +877,7 @@ footer {
 .upcoming-events {
   margin-top: 24px;
   margin-bottom: 40px;
+  text-align: center;
 }
 
 .upcoming-event {
@@ -901,6 +903,7 @@ footer {
 .past-events {
   margin-top: 24px;
   margin-bottom: 40px;
+  text-align: center;
 }
 
 .past-event {
