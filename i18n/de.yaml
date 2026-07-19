@@ -1,0 +1,48 @@
+# Navigation
+nav_home: Home
+nav_gallery: Galerie
+nav_setlist: Setlist
+nav_upcoming_events: Veranstaltungen
+nav_booking: Booking
+
+# Homepage
+hero_subtitle: Bossa Nova, Jazz & Pop Music Group
+about_text: Gira Sol – bestehend aus Tobias, Helena und Elias – bringt warmherzige Bossa Nova, Jazz und Pop an jeden Ort. Wir schaffen eine gemütliche Atmosphäre, die zum Entspannen und Tanzen einlädt. Mit sorgfältig ausgewählten Songs und feinfühligem Spiel bieten wir das perfekte musikalische Begleitung für Hochzeiten, Feiern, private Events und mehr. Unser Ziel ist es, unvergessliche Momente zu erschaffen.
+booking_button: Zur Buchung
+
+# Cards
+card_instagram_label: Instagram
+card_instagram_title: Folge uns
+card_instagram_value: Updates, Clips und Einblicke hinter die Kulissen
+card_instagram_link: "@music.girasol →"
+
+card_contact_label: Kontakt
+card_contact_title: Jetzt anfragen
+card_contact_email: "girasolmusic.band@gmail.com"
+card_contact_link: "E-Mail →"
+
+# Occasions
+occasions_label: Wir spielen für
+occasion_birthday: Geburtstag
+occasion_wedding: Hochzeit
+occasion_corporate: Firmenanlass
+occasion_vernissage: Vernissage
+occasion_party: Party
+occasion_apero: Apéro
+
+# Booking Form
+booking_form_title: Unverbindliche Buchungsanfrage
+booking_form_name: Name
+booking_form_email: E-Mail
+booking_form_phone: Telefonnummer
+booking_form_category: Art des Events
+booking_form_category_select: Bitte wählen...
+booking_form_category_other: Sonstiges
+booking_form_message: Nachricht
+booking_form_submit: Nachricht senden
+booking_form_success: Danke für deine Nachricht! Wir werden uns bald bei dir melden.
+booking_form_error: Entschuldigung, es gab einen Fehler beim Absenden des Formulars. Bitte versuche es später erneut.
+booking_phone_text: "Oder wenn du lieber anrufen möchtest, kontaktiere uns direkt unter dieser Nummer:"
+
+# Footer
+footer_domain: girasolmusic.ch

@@ -1,0 +1,78 @@
+{{ define "main" }}
+<section class="page-content">
+  <div class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+
+  <div class="page-body">
+    {{ .Content }}
+  </div>
+
+  <!-- Contact Form -->
+  <div class="contact-form-container">
+    <h2>{{ i18n "booking_form_title" }}</h2>
+
+    <div data-fs-success class="form-message form-success">
+      {{ i18n "booking_form_success" }}
+    </div>
+    <div data-fs-error class="form-message form-error">
+      {{ i18n "booking_form_error" }}
+    </div>
+
+    <form id="booking-form" class="contact-form">
+      <div class="form-group">
+        <label for="name">{{ i18n "booking_form_name" }} *</label>
+        <input type="text" id="name" name="name" data-fs-field required>
+        <span class="form-error-text" data-fs-error="name"></span>
+      </div>
+
+      <div class="form-group">
+        <label for="email">{{ i18n "booking_form_email" }} *</label>
+        <input type="email" id="email" name="email" data-fs-field required>
+        <span class="form-error-text" data-fs-error="email"></span>
+      </div>
+
+      <div class="form-group">
+        <label for="phone">{{ i18n "booking_form_phone" }}</label>
+        <input type="tel" id="phone" name="phone" data-fs-field>
+        <span class="form-error-text" data-fs-error="phone"></span>
+      </div>
+
+      <div class="form-group">
+        <label for="category">{{ i18n "booking_form_category" }} *</label>
+        <select id="category" name="category" data-fs-field required>
+          <option value="">{{ i18n "booking_form_category_select" }}</option>
+          <option value="wedding">{{ i18n "occasion_wedding" }}</option>
+          <option value="corporate">{{ i18n "occasion_corporate" }}</option>
+          <option value="vernissage">{{ i18n "occasion_vernissage" }}</option>
+          <option value="birthday">{{ i18n "occasion_birthday" }}</option>
+          <option value="party">{{ i18n "occasion_party" }}</option>
+          <option value="apero">{{ i18n "occasion_apero" }}</option>
+          <option value="other">{{ i18n "booking_form_category_other" }}</option>
+        </select>
+        <span class="form-error-text" data-fs-error="category"></span>
+      </div>
+
+      <div class="form-group">
+        <label for="message">{{ i18n "booking_form_message" }} *</label>
+        <textarea id="message" name="message" data-fs-field required rows="6"></textarea>
+        <span class="form-error-text" data-fs-error="message"></span>
+      </div>
+
+      <button type="submit" data-fs-submit-btn class="form-submit">{{ i18n "booking_form_submit" }}</button>
+    </form>
+  </div>
+
+  <!-- Phone Contact Alternative -->
+  <div class="phone-contact">
+    <p>{{ i18n "booking_phone_text" }}</p>
+    <a href="tel:+41799135594" class="phone-link">+41 79 913 55 94</a>
+  </div>
+</section>
+
+<script>
+  window.formspree = window.formspree || function () { (formspree.q = formspree.q || []).push(arguments); };
+  formspree('initForm', { formElement: '#booking-form', formId: 'mojboqqv' });
+</script>
+<script src="https://unpkg.com/@formspree/ajax@1" defer></script>
+{{ end }}

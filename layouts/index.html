@@ -1,0 +1,47 @@
+{{ define "main" }}
+<!-- Hero -->
+<section class="hero">
+  <h1 class="title"><em class="title-dark">Gira</em><br><em>Sol</em></h1>
+
+  <img class="hero-image" src="/img/trio.jpg" alt="Gira Sol">
+
+  <p class="subtitle">{{ i18n "hero_subtitle" }}</p>
+
+  <p class="about-text">{{ i18n "about_text" }}</p>
+
+  <a href="{{ relLangURL "/booking/" }}" class="cta-button">{{ i18n "booking_button" }}</a>
+</section>
+
+<!-- Contact Cards -->
+<div class="cards">
+  <div class="card">
+    <span class="card-label">{{ i18n "card_instagram_label" }}</span>
+    <div class="card-title">{{ i18n "card_instagram_title" }}</div>
+    <div class="card-value">{{ i18n "card_instagram_value" }}</div>
+    <a class="card-link" href="https://www.instagram.com/music.girasol" target="_blank">@music.girasol →</a>
+  </div>
+
+  <div class="card">
+    <span class="card-label">{{ i18n "card_contact_label" }}</span>
+    <div class="card-title">{{ i18n "card_contact_title" }}</div>
+    <div class="card-value">
+      {{ i18n "card_contact_email" }}<br>
+      T: +41 76 322 73 28
+    </div>
+    <a class="card-link" href="mailto:girasolmusic.band@gmail.com" target="_blank">{{ i18n "card_contact_link" }}</a>
+  </div>
+</div>
+
+<!-- Occasions -->
+<section class="occasions">
+  <p class="occasions-label">{{ i18n "occasions_label" }}</p>
+  <div class="occasions-grid">
+    <span class="occasion-pill">{{ i18n "occasion_birthday" }}</span>
+    <span class="occasion-pill">{{ i18n "occasion_wedding" }}</span>
+    <span class="occasion-pill">{{ i18n "occasion_corporate" }}</span>
+    <span class="occasion-pill">{{ i18n "occasion_vernissage" }}</span>
+    <span class="occasion-pill">{{ i18n "occasion_party" }}</span>
+    <span class="occasion-pill">{{ i18n "occasion_apero" }}</span>
+  </div>
+</section>
+{{ end }}

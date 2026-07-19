@@ -1,0 +1,34 @@
+baseURL = 'https://girasolmusic.ch/'
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = false
+title = 'Gira Sol Music'
+enableRobotsTXT = true
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+
+[params]
+  author = "Gira Sol Music"
+  description = "Gira Sol - Bossa Nova, Jazz & Pop Music Group"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[languages.de]
+  languageName = "DE"
+  languageCode = "de"
+  weight = 1
+  title = "Gira Sol Music"
+
+[languages.en]
+  languageName = "EN"
+  languageCode = "en"
+  weight = 2
+  title = "Gira Sol Music"
+
+[languages.pt-br]
+  languageName = "PT"
+  languageCode = "pt-BR"
+  weight = 3
+  title = "Gira Sol Music"

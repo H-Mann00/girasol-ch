@@ -1,0 +1,24 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# Hugo local
+hugo_stats.json
+.hugo_build.lock
+
+# Environment
+.env
+.env.*
+/.claude/settings.local.json
