@@ -362,7 +362,6 @@ document.addEventListener('DOMContentLoaded', () => {
     <a href="{{ relLangURL "/" }}" {{ if eq .Type "" }}class="active"{{ end }}>{{ i18n "nav_home" }}</a>
     <a href="{{ relLangURL "/gallery/" }}" {{ if eq .Section "gallery" }}class="active"{{ end }}>{{ i18n "nav_gallery" }}</a>
     <a href="{{ relLangURL "/band/" }}" {{ if eq .Section "band" }}class="active"{{ end }}>{{ i18n "nav_band" }}</a>
-    <a href="{{ relLangURL "/setlist/" }}" {{ if eq .Section "setlist" }}class="active"{{ end }}>{{ i18n "nav_setlist" }}</a>
     <a href="{{ relLangURL "/upcoming-events/" }}" {{ if eq .Section "upcoming-events" }}class="active"{{ end }}>{{ i18n "nav_upcoming_events" }}</a>
     <a href="{{ relLangURL "/booking/" }}" {{ if eq .Section "booking" }}class="active"{{ end }}>{{ i18n "nav_booking" }}</a>
   </div>
