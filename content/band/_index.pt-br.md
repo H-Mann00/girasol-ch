@@ -6,7 +6,7 @@ title: Band
   <img src="/img/helena.jpg" alt="Helena Mannion" class="band-member-photo">
   <div class="band-member-text">
     <h2>Helena Mannion</h2>
-    <p>Originária de Basel e agora morando em Berna, Helena é a vocalista principal do Gira Sol. Ela traz uma musicalidade natural e autenticidade emocional ao som da banda. Sua herança brasileira a conecta profundamente com Bossa Nova e Samba – estes estilos são uma extensão de sua origem. Ela canta em inglês e português, e cantar em sua língua materna com o Gira Sol, particularmente desde a estreia da banda em outubro de 2025, tem sido central para sua experiência com o projeto.<br><br><a href="https://www.instagram.com/helena.music_" target="_blank">@helena.music_</a></p>
+    <p>Originária de Basel e agora morando em Berna, Helena é a vocalista do Gira Sol. Com sua voz suave e autenticidade, ela molda o som quente da banda. Através de suas raízes brasileiras, ela se sente particularmente conectada com Bossa Nova e Samba – estilos musicais que refletem sua herança cultural. Helena canta em inglês e português, tornando a beleza poética da língua portuguesa acessível para um público internacional.<br><br><a href="https://www.instagram.com/helena.music_" target="_blank">@helena.music_</a></p>
   </div>
 </div>
 
@@ -14,7 +14,7 @@ title: Band
   <img src="/img/elias.jpg" alt="Elias Bieri" class="band-member-photo">
   <div class="band-member-text">
     <h2>Elias Bieri</h2>
-    <p>Baseado em Berna, Elias é o guitarrista principal do Gira Sol. Ele cresceu com um amor pela música e desenvolveu suas habilidades na guitarra através de anos de prática dedicada, influenciado por jazz e blues. Ele tem quase dois anos de experiência em apresentações ao vivo. Bossa Nova representa uma direção artística significativa para ele – um estilo que o convida a trabalhar com novas possibilidades rítmicas e harmônicas mantendo a base musical que construiu ao longo do tempo.<br><br><a href="https://www.instagram.com/_eb_3" target="_blank">@_eb_3</a></p>
+    <p>Elias, originário de Solothurn e agora morando em Berna, é o guitarrista do Gira Sol. Seu amor pela música começou cedo. Inspirado por funk, R&B, soul, blues e um pouco de jazz, ele construiu seu estilo pessoal ao longo dos anos. Bossa Nova representa uma direção artística significativa para ele – um estilo que o convida a trabalhar com novas possibilidades rítmicas e harmônicas.<br><br><a href="https://www.instagram.com/_eb_3" target="_blank">@_eb_3</a></p>
   </div>
 </div>
 
