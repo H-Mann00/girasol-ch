@@ -6,7 +6,7 @@ title: Band
   <img src="/img/helena.jpg" alt="Helena Mannion" class="band-member-photo">
   <div class="band-member-text">
     <h2>Helena Mannion</h2>
-    <p>Ursprünglich aus Basel und jetzt in Bern ansässig, ist Helena die Leadsängerin von Gira Sol. Sie bringt eine natürliche Musikalität und emotionale Authentizität in den Sound der Band. Ihr brasilianisches Erbe verbindet sie tiefgreifend mit Bossa Nova und Samba – diese Stile sind eine Erweiterung ihrer Herkunft. Sie singt auf Englisch und Portugiesisch, und das Singen in ihrer Muttersprache mit Gira Sol, besonders seit dem Auftritt der Band im Oktober 2025, war zentral für ihre Erfahrung mit dem Projekt.<br><br><a href="https://www.instagram.com/helena.music_" target="_blank">@helena.music_</a></p>
+    <p>Ursprünglich aus Basel und heute in Bern zuhause, ist Helena die Sängerin von Gira Sol. Mit ihrer sanften Stimme und ihrer Authentizität prägt sie den warmen Klang der Band. Durch ihre brasilianischen Wurzeln fühlt sie sich Bossa Nova und Samba besonders verbunden – Musikstile, die ihre kulturelle Herkunft widerspiegeln. Helena singt auf Englisch und Portugiesisch und macht die poetische Schönheit der portugiesischen Sprache auch für ein internationales Publikum erlebbar.<br><br><a href="https://www.instagram.com/helena.music_" target="_blank">@helena.music_</a></p>
   </div>
 </div>
 
@@ -14,7 +14,7 @@ title: Band
   <img src="/img/elias.jpg" alt="Elias Bieri" class="band-member-photo">
   <div class="band-member-text">
     <h2>Elias Bieri</h2>
-    <p>Basierend in Bern, ist Elias der Leadgitarrist von Gira Sol. Seine Liebe zur Musik bestand schon früh, und er entwickelte seine Gitarrenfähigkeiten durch Jahre hinweg gezielter Praxis und lässt sich dabei von Jazz und Blues inspirieren. Er hat knapp zwei Jahre Live-Auftritt-Erfahrung. Bossa Nova stellt eine bedeutungsvolle künstlerische Richtung für ihn dar – ein Stil, der ihn einlädt, mit neuen rhythmischen und harmonischen Möglichkeiten zu arbeiten, während er die musikalische Grundlage bewahrt, die er sich über die Zeit aufgebaut hat.<br><br><a href="https://www.instagram.com/_eb_3" target="_blank">@_eb_3</a></p>
+    <p>Der Solothurner Elias, der nun in Bern sein Zuhause gefunden hat, ist der Gitarrist von Gira Sol. Seine Liebe zur Musik bestand schon früh. Inspiriert durch Funk, RnB, Soul, Blues und etwas Jazz hat er seinen persönlichen Stil über die Jahre aufgebaut. Bossa Nova stellt eine bedeutungsvolle künstlerische Richtung für ihn dar, ein Stil, der ihn einlädt, mit neuen rhythmischen und harmonischen Möglichkeiten zu arbeiten.<br><br><a href="https://www.instagram.com/_eb_3" target="_blank">@_eb_3</a></p>
   </div>
 </div>
 
@@ -22,6 +22,6 @@ title: Band
   <img src="/img/tobias.jpg" alt="Tobias Asuming" class="band-member-photo">
   <div class="band-member-text">
     <h2>Tobias Asuming</h2>
-    <p>Tobias ist Schlagzeuger und Sänger mit Ausbildung an der Hochschule der Künste Bern. Mit über 15 Jahren Schlagzeugausbildung in afrikanischen und lateinamerikanischen Traditionen – inklusive Zeit in Ghana – bringt Tobias Tiefe und kulturelle Verwurzelung in Gira Sols Sound. Seine rhythmische Grundlage und Gesangsbeiträge prägen den Charakter der Band.<br><br><a href="https://www.instagram.com/mister.rhythm" target="_blank">@mister.rhythm</a></p>
+    <p>Tobias ist Perkussionist und Sänger mit Ausbildung an der Hochschule der Künste Bern. Mit über 15 Jahren Perkussionsausbildung in afrikanischen und lateinamerikanischen Traditionen – inklusive Zeit in Ghana – bringt Tobias Tiefe und kulturelle Verwurzelung in Gira Sols Sound. Seine rhythmische Grundlage und Gesangsbeiträge prägen den Charakter der Band.<br><br><a href="https://www.instagram.com/mister.rhythm" target="_blank">@mister.rhythm</a></p>
   </div>
 </div>
