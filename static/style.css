@@ -1,21 +1,29 @@
 :root {
-  --black: #faf8f6;
-  --dark: #f5f1ed;
-  --card: #ffffff;
-  --border: #e8dfd6;
-  --accent: #D97743;
-  --accent-warm: #E8B4A0;
-  --accent-light: #F4E4D7;
-  --accent-dim: rgba(217,119,67,0.08);
-  --text: #2c2416;
-  --muted: #6b5d52;
+  --black: #FBF8F2;
+  --dark: #F5F1E9;
+  --card: #fefdfb;
+  --border: #E8DFD1;
+  --accent: #C96A38;
+  --accent-warm: #C96A38;
+  --accent-light: #FBF5E6;
+  --accent-dim: rgba(201,106,56,0.08);
+  --text: #22385D;
+  --muted: #5d6f77;
   --faint: #d9cfc5;
+
+  /* Calçadão palette */
+  --navy: #22385D;
+  --gold: #C96A38;
+  --orange: #C96A38;
+  --green: #8B9B74;
+  --sky-blue: #AFC3D8;
+  --sand-bg: #FBF8F2;
 }
 
 /* Fallback for existing --red usage */
 :root {
-  --red: #D97743;
-  --red-dim: rgba(217,119,67,0.08);
+  --red: #C96A38;
+  --red-dim: rgba(201,106,56,0.08);
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -51,13 +59,13 @@ body::after {
 }
 .glow-1 {
   width: 500px; height: 500px;
-  background: rgba(217,119,67,0.08);
+  background: rgba(175,195,216,0.04);
   top: -100px; left: -100px;
   animation: drift1 18s ease-in-out infinite alternate;
 }
 .glow-2 {
   width: 400px; height: 400px;
-  background: rgba(232,180,160,0.06);
+  background: rgba(232,191,76,0.03);
   bottom: -80px; right: -80px;
   animation: drift2 22s ease-in-out infinite alternate;
 }
@@ -289,21 +297,17 @@ nav a.active {
 .hero::before {
   content: '';
   position: absolute;
-  right: -10%;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 600px;
-  height: 600px;
-  background: var(--accent-warm);
-  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
-  animation: blobShift 8s ease-in-out infinite;
-  opacity: 0.9;
+  left: 0;
+  top: -10%;
+  width: 100%;
+  height: 120%;
+  background-image: url(/img/calcadao-pattern.png);
+  background-size: cover;
+  background-position: center right;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  opacity: 0.6;
   z-index: 0;
-}
-
-@keyframes blobShift {
-  0%, 100% { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
-  50% { border-radius: 30% 60% 70% 40% / 40% 60% 30% 70%; }
 }
 
 .hero-content {
@@ -418,7 +422,7 @@ nav a.active {
   aspect-ratio: 3/4;
   object-fit: cover;
   border-radius: 16px;
-  box-shadow: 0 20px 50px rgba(217, 119, 67, 0.15);
+  box-shadow: 0 20px 50px rgba(26, 46, 62, 0.08);
   opacity: 0;
   animation: fadeUp 0.9s 0.4s cubic-bezier(0.22,1,0.36,1) forwards;
 }
@@ -491,14 +495,14 @@ nav a.active {
   cursor: pointer;
   opacity: 0;
   animation: fadeUp 0.9s 0.6s cubic-bezier(0.22,1,0.36,1) forwards;
-  box-shadow: 0 8px 24px rgba(217, 119, 67, 0.2);
+  box-shadow: 0 8px 24px rgba(200, 157, 110, 0.15);
   font-weight: 600;
 }
 
 .cta-button:hover {
   background: var(--accent-warm);
   transform: translateY(-2px);
-  box-shadow: 0 12px 32px rgba(217, 119, 67, 0.3);
+  box-shadow: 0 12px 32px rgba(200, 157, 110, 0.2);
 }
 
 /* ── Divider ── */
@@ -635,7 +639,7 @@ nav a.active {
   z-index: 1;
   padding: 80px 24px 80px;
   border-top: 1px solid var(--accent);
-  background: linear-gradient(180deg, rgba(217,119,67,0.03) 0%, transparent 60%);
+  background: linear-gradient(180deg, rgba(232,191,76,0.02) 0%, transparent 60%);
 }
 
 .page-header {
@@ -966,7 +970,7 @@ footer {
 }
 
 .form-success {
-  background: rgba(217, 119, 67, 0.1);
+  background: rgba(200, 157, 110, 0.08);
   color: var(--accent);
   border: 1px solid var(--accent);
 }
@@ -1019,7 +1023,7 @@ footer {
 .form-group textarea:focus {
   outline: none;
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(217, 119, 67, 0.08);
+  box-shadow: 0 0 0 3px rgba(200, 157, 110, 0.06);
 }
 
 .form-group input[aria-invalid="true"],
@@ -1067,7 +1071,7 @@ footer {
 .form-submit:hover:not(:disabled) {
   background: var(--accent-warm);
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(217, 119, 67, 0.2);
+  box-shadow: 0 6px 20px rgba(200, 157, 110, 0.15);
 }
 
 .form-submit:disabled {
@@ -1172,7 +1176,7 @@ footer {
 
 .gallery-item:hover {
   border-color: var(--accent);
-  box-shadow: 0 8px 24px rgba(217, 119, 67, 0.15);
+  box-shadow: 0 8px 24px rgba(200, 157, 110, 0.12);
 }
 
 .gallery-item:hover img {
@@ -1276,7 +1280,7 @@ footer {
   height: 48px;
   border: none;
   border-radius: 6px;
-  background: rgba(217, 119, 67, 0.9);
+  background: rgba(200, 157, 110, 0.85);
   color: var(--black);
   font-size: 20px;
   cursor: pointer;
@@ -1289,7 +1293,7 @@ footer {
 
 .carousel-btn:hover {
   background: var(--accent);
-  box-shadow: 0 4px 16px rgba(217, 119, 67, 0.3);
+  box-shadow: 0 4px 16px rgba(200, 157, 110, 0.25);
 }
 
 .carousel-prev {
@@ -1321,7 +1325,7 @@ footer {
   background: var(--accent);
   width: 28px;
   border-radius: 5px;
-  box-shadow: 0 0 12px rgba(217, 119, 67, 0.3);
+  box-shadow: 0 0 12px rgba(200, 157, 110, 0.25);
 }
 
 /* ── Event Carousel ── */
@@ -1545,7 +1549,7 @@ footer {
   width: 50px;
   height: 50px;
   border: none;
-  background: rgba(217, 119, 67, 0.8);
+  background: rgba(200, 157, 110, 0.8);
   color: #fff;
   font-size: 24px;
   cursor: pointer;
@@ -1636,9 +1640,9 @@ footer {
   aspect-ratio: 3/4;
   object-fit: cover;
   border-radius: 12px;
-  box-shadow: 0 12px 40px rgba(217, 119, 67, 0.15);
+  box-shadow: 0 12px 40px rgba(26, 46, 62, 0.08);
   display: block;
-  filter: sepia(30%) hue-rotate(-12deg) saturate(1.2);
+  filter: sepia(20%) hue-rotate(-8deg) saturate(1.1);
 }
 
 .band-member-text h2 {
