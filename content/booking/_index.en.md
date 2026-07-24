@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-Please describe how you envision your event, and we'll get back to you as soon as possible to discuss the details.
+Have a question for us? Or interested in booking Gira Sol for your event? Feel free to reach out with any inquiry or non-binding booking request.
