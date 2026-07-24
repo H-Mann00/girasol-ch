@@ -217,7 +217,8 @@ nav a.active {
 @media (max-width: 480px) {
   nav {
     flex-wrap: wrap;
-    padding: 10px 12px;
+    padding: 8px 8px;
+    gap: 4px;
   }
 
   .nav-toggle {
@@ -229,17 +230,19 @@ nav a.active {
     order: 0;
     margin-left: auto;
     gap: 0;
-    right: 12px;
-    top: 12px;
+    right: 8px;
+    top: 8px;
+    padding: 0;
   }
 
   .lang-separator {
-    margin: 0 4px;
+    margin: 0 2px;
+    font-size: 10px;
   }
 
   .lang-link {
-    padding: 6px 10px;
-    font-size: 11px;
+    padding: 4px 8px;
+    font-size: 10px;
   }
 
   .nav-menu {
@@ -254,7 +257,8 @@ nav a.active {
   }
 
   .nav-menu.active {
-    max-height: 500px;
+    max-height: 280px;
+    overflow-y: auto;
   }
 
   nav a {
@@ -358,9 +362,16 @@ nav a.active {
   }
 
   .hero::before {
-    width: 350px;
-    height: 350px;
-    right: -20%;
+    background-image: url(/img/copacabana-mobile.png);
+    background-size: cover;
+    background-position: bottom center;
+    background-attachment: scroll;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: auto;
+    opacity: 0.8;
   }
 }
 
@@ -371,9 +382,15 @@ nav a.active {
   }
 
   .hero::before {
-    width: 280px;
-    height: 280px;
-    right: -15%;
+    background-image: url(/img/copacabana-mobile.png);
+    background-size: cover;
+    background-position: bottom center;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: auto;
+    opacity: 0.7;
   }
 
   .hero-content {
@@ -396,7 +413,7 @@ nav a.active {
 .title {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
-  font-size: clamp(48px, 8vw, 96px);
+  font-size: clamp(56px, 9vw, 100px);
   line-height: 1.1;
   letter-spacing: -0.02em;
   color: var(--text);
@@ -1710,17 +1727,21 @@ footer {
   .cards { grid-template-columns: 1fr; }
   footer { justify-content: center; text-align: center; }
 
+  .page-content {
+    padding: 60px 16px;
+  }
+
   .eyebrow {
     font-size: 11px;
     margin-bottom: 20px;
   }
 
   .title {
-    font-size: clamp(40px, 9vw, 60px);
+    font-size: clamp(48px, 10vw, 56px);
   }
 
   .subtitle {
-    font-size: clamp(18px, 3.5vw, 24px);
+    font-size: clamp(16px, 3.5vw, 20px);
   }
 
   .badge {
