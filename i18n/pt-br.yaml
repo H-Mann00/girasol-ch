@@ -9,7 +9,7 @@ nav_booking: Contato
 welcome: Bem-vindo à
 hero_subtitle: Bossa Nova, Samba & Pop Music Group
 about_text: "Somos Tobias, Helena e Elias. Juntos, Gira Sol (significado: virado para o sol). Tocamos Bossa Nova, Samba e Pop, criando uma atmosfera aconchegante em toda ocasião."
-booking_button: Ir para Reserva
+contact_button: Contato
 
 # Cards
 card_instagram_label: Instagram
@@ -22,19 +22,19 @@ card_contact_title: Reserve Agora
 card_contact_email: "girasolmusic.band@gmail.com"
 card_contact_link: "Email →"
 
-# Booking Form
-booking_form_title: Solicitação de Reserva Sem Compromisso
-booking_form_name: Nome
-booking_form_email: Email
-booking_form_phone: Número de Telefone
-booking_form_category: Tipo de Evento
-booking_form_category_select: Por favor, selecione...
-booking_form_category_other: Outro
-booking_form_message: Mensagem
-booking_form_submit: Enviar Mensagem
-booking_form_success: Obrigado pela sua mensagem! Entraremos em contato em breve.
-booking_form_error: Desculpe, houve um erro ao enviar o formulário. Por favor, tente novamente mais tarde.
-booking_phone_text: "Ou se preferir ligar, entre em contato conosco diretamente neste número:"
+# Contact Form
+contact_form_title: Entre em Contato
+contact_form_name: Nome
+contact_form_email: Email
+contact_form_phone: Número de Telefone
+contact_form_category: Tipo de Evento
+contact_form_category_select: Por favor, selecione...
+contact_form_category_other: Outro
+contact_form_message: Mensagem
+contact_form_submit: Enviar Mensagem
+contact_form_success: Obrigado pela sua mensagem! Entraremos em contato em breve.
+contact_form_error: Desculpe, houve um erro ao enviar o formulário. Por favor, tente novamente mais tarde.
+contact_phone_text: "Ou se preferir ligar, entre em contato conosco diretamente neste número:"
 
 # Footer
 footer_domain: girasol-music.ch

@@ -7,7 +7,7 @@
     <p class="subtitle">{{ i18n "hero_subtitle" }}</p>
     <p class="about-text">{{ i18n "about_text" }}</p>
     <p class="about-text">{{ if eq .Site.Language.Lang "de" }}Erfahre mehr über uns als Band{{ else if eq .Site.Language.Lang "en" }}Learn more about us as a band{{ else }}Saiba mais sobre nós como banda{{ end }} <a href="{{ relLangURL "/band/" }}" class="about-link">{{ if eq .Site.Language.Lang "de" }}hier{{ else if eq .Site.Language.Lang "en" }}here{{ else }}aqui{{ end }}</a></p>
-    <a href="{{ relLangURL "/booking/" }}" class="cta-button">{{ i18n "booking_button" }}</a>
+    <a href="{{ relLangURL "/booking/" }}" class="cta-button">{{ i18n "contact_button" }}</a>
   </div>
 
   <div class="hero-image-wrapper">

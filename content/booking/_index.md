@@ -1,11 +1,9 @@
 ---
-title: Booking
+title: Contact
 ---
 
-Interested in booking Helena & Elias for your event? Get in touch with us!
+Contact us for queries or for a non-binding booking request.
 
-## Contact Us
-
-**Email:** helenaeliasmusic@gmail.com
+**Email:** girasolmusic.band@gmail.com
 
 **Phone:** +41 79 913 55 94
