@@ -1,5 +1,5 @@
 ---
-title: Reserva
+title: Contato
 ---
 
-Por favor, descreva como você imagina seu evento, e entraremos em contato com você assim que possível para discutir os detalhes.
+Tem uma pergunta para nós? Ou quer contratar a Gira Sol para seu evento? Fique à vontade para entrar em contato com qualquer dúvida ou solicitação de reserva sem compromisso.

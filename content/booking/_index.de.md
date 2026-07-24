@@ -1,5 +1,5 @@
 ---
-title: Booking
+title: Kontakt
 ---
 
-Wir bitten dich gerne zu beschreiben, wie du dir dein Anlass vorstellst und gerne melden wir uns baldmöglichst bei dir um Details zu besprechen.
+Hast du eine Frage für uns? Oder interessierst du dich dafür, Gira Sol für deinen Anlass zu buchen? Schreib uns gerne – wir freuen uns auf deine Anfrage oder unverbindliche Buchungsanfrage.
