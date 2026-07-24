@@ -22,6 +22,6 @@ title: Band
   <img src="/img/tobias.jpg" alt="Tobias Asuming" class="band-member-photo">
   <div class="band-member-text">
     <h2>Tobias Asuming</h2>
-    <p>Tobias ist Perkussionist und Sänger mit Ausbildung an der Hochschule der Künste Bern. Mit über 15 Jahren Perkussionsausbildung in afrikanischen und lateinamerikanischen Traditionen – inklusive Zeit in Ghana – bringt Tobias Tiefe und kulturelle Verwurzelung in Gira Sols Sound. Seine rhythmische Grundlage und Gesangsbeiträge prägen den Charakter der Band.<br><br><a href="https://www.instagram.com/mister.rhythm" target="_blank">@mister.rhythm</a></p>
+    <p>Tobias ist Perkussionist und Sänger mit Ausbildung an der Hochschule der Künste Bern. Mit über 15 Jahren Perkussions-ausbildung in afrikanischen und lateinamerikanischen Traditionen – inklusive Zeit in Ghana – bringt Tobias Tiefe und kulturelle Verwurzelung in Gira Sols Sound. Seine rhythmische Grundlage und Gesangsbeiträge prägen den Charakter der Band.<br><br><a href="https://www.instagram.com/mister.rhythm" target="_blank">@mister.rhythm</a></p>
   </div>
 </div>
