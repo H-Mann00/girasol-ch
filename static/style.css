@@ -413,7 +413,7 @@ nav a.active {
 .title {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
-  font-size: clamp(48px, 8vw, 96px);
+  font-size: clamp(56px, 10vw, 120px);
   line-height: 1.1;
   letter-spacing: -0.02em;
   color: var(--text);
@@ -1737,7 +1737,7 @@ footer {
   }
 
   .title {
-    font-size: clamp(32px, 8vw, 48px);
+    font-size: clamp(48px, 10vw, 56px);
   }
 
   .subtitle {
