@@ -29,6 +29,12 @@ contact_form_email: E-Mail
 contact_form_phone: Telefonnummer
 contact_form_category: Art des Events
 contact_form_category_select: Bitte wählen...
+occasion_wedding: Hochzeit
+occasion_corporate: Firmenanlass
+occasion_vernissage: Vernissage
+occasion_birthday: Geburtstag
+occasion_party: Party
+occasion_apero: Apéro
 contact_form_category_other: Sonstiges
 contact_form_message: Nachricht
 contact_form_submit: Nachricht senden
