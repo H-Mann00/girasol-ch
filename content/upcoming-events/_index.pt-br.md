@@ -4,7 +4,11 @@ title: Eventos
 
 ## Próximos Eventos
 
-Fique atento aos próximos eventos. Nos siga no Instagram ou entre em contato para saber mais.
+### Setembro 2026
+
+<div class="upcoming-events">
+  <div class="upcoming-event">24.09.2026 Abertura para Im Dach Musikschule na sessão Jam</div>
+</div>
 
 ## Eventos Passados
 
