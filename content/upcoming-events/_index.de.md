@@ -4,7 +4,11 @@ title: Veranstaltungen
 
 ## Kommende Veranstaltungen
 
-Bleiben Sie auf dem Laufenden über zukünftige Veranstaltungen. Folgen Sie uns auf Instagram oder melden Sie sich bei uns, um mehr zu erfahren.
+### September 2026
+
+<div class="upcoming-events">
+  <div class="upcoming-event">24.09.2026 Opener für im Dach Musikschule beim Jam Session</div>
+</div>
 
 ## Vergangene Veranstaltungen
 

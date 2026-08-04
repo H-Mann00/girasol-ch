@@ -4,7 +4,11 @@ title: Events
 
 ## Upcoming Events
 
-Stay tuned for future events. Follow us on Instagram or get in touch to learn more.
+### September 2026
+
+<div class="upcoming-events">
+  <div class="upcoming-event">24.09.2026 Opener for Im Dach Musikschule at Jam Session</div>
+</div>
 
 ## Past Events
 
